@@ -6,7 +6,7 @@ export default function Home() {
     <main className="min-h-screen">
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-br from-purple-900/50 via-blue-900/50 to-purple-800/50 z-10" />
+        <div className="absolute inset-0 bg-gradient-to-br from-black/20 via-black/10 to-black/20 z-10" />
         <div className="absolute inset-0 bg-[url('/Your-adventure-starts-here1-1024x724.jpeg')] bg-cover bg-center" />
         
         <div className="relative z-20 text-center text-white px-4 max-w-5xl mx-auto">
